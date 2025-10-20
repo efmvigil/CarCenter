@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\views\\notas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\views\\notas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\carcenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\carcenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|c:\\users\\lvigi\\source\\repos\\carcenter\\carcenter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFC077B-C995-4264-8005-CA3204355F02}|CarCenter\\CarCenter.csproj|solutionrelative:carcenter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Controllers\\NotasController.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "CarCenter\\Controllers\\NotasController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAkwKoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:34:32.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Views\\Notas\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarCenter\\Views\\Notas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Views\\Notas\\Create.cshtml",
+              "RelativeToolTip": "CarCenter\\Views\\Notas\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T18:33:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Cliente.cs",
+              "RelativeToolTip": "CarCenter\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:26:23.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "CarCenter\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:49:20.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarrosController.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\CarrosController.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Controllers\\CarrosController.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\CarrosController.cs",
+              "RelativeToolTip": "CarCenter\\Controllers\\CarrosController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:47:41.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarCenter",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\CarCenter.csproj",
+              "RelativeDocumentMoniker": "CarCenter\\CarCenter.csproj",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\CarCenter.csproj",
+              "RelativeToolTip": "CarCenter\\CarCenter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T17:39:35.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Models\\Nota.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Nota.cs",
+              "RelativeToolTip": "CarCenter\\Models\\Nota.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T01:16:46.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Models\\Vendedor.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Vendedor.cs",
+              "RelativeToolTip": "CarCenter\\Models\\Vendedor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T01:11:33.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CarCenter\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CarCenter\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T19:07:26.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Carro.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Models\\Carro.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Models\\Carro.cs",
+              "RelativeToolTip": "CarCenter\\Models\\Carro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:49:48.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarCenter\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lvigi\\source\\repos\\CarCenter\\CarCenter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarCenter\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T23:13:48.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
